@@ -1,7 +1,7 @@
 # Air landing page
 Landing page was implemented according to [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35) - Used BEM and SCSS
 
-You can see landing page by the link [DEMO LINK](https://sviatlanaramanauskas.github.io/Air_landing_page_Portfolio/)
+You can see landing page by the link [DEMO LINK](https://svitlanaramanauskas.github.io/Air_landing_page_Portfolio/)
 
 The page was adapted to the following screens:
 - Large screens 2560px
