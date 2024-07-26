@@ -51,13 +51,13 @@ cd Air_landing_page_Portfolio
 
 Install dependences using npm (Node Package Manager). Ensure you have Node.js installed on your machine. This project uses Node v14.
 
-`npm install`
+```npm install```
 
 - Run the Project:
 
 Start the development server with live reloading:
 
-`npm start`
+```npm start```
 
 Alternatively, you can use any other local server setup you prefer, such as Live Server for VS Code.
 
