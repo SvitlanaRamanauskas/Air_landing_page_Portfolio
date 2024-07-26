@@ -42,8 +42,10 @@ To run this project locally, follow these steps:
 
 - Clone the Repository:
 
-```git clone https://github.com/SvitlanaRamanauskas/Air_landing_page_Portfolio.git```
-```cd Air_landing_page_Portfolio```
+```
+git clone https://github.com/SvitlanaRamanauskas/Air_landing_page_Portfolio.git
+cd Air_landing_page_Portfolio
+```
 
 - Install Dependencies:
 
